@@ -1,4 +1,4 @@
-<h1 align="center">to.do - Seu aplicativo favorito de afarezes</h1>
+<h1 align="center">stream.data - App for Social Login w/ Twitch</h1>
 
 <div align="center">
 
